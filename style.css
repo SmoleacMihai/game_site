@@ -1,4 +1,33 @@
-body
-{
-    background-color: rgb(33, 33, 33);
+body{
+    background-color: #333333;
+}
+
+.title{
+        float: left;
+        color: #F83232;
+        -webkit-text-stroke: 0.5px white;
+        font-size: 55px;
+}
+
+.container{
+    
+    width: 80%;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+
+nav li{
+    display: inline-block;
+    margin-left: 70px;
+    padding-top: 25px;
 }
