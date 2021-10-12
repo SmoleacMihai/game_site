@@ -16,7 +16,7 @@ h1 a{
       -webkit-text-stroke: 0.5px white;
   ;
 }
-.container{
+.menu{
   position: fixed;
   width: 70%;
   padding-left: 150px;

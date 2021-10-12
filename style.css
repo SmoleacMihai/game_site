@@ -6,8 +6,7 @@ body{
         float: left;
         
         font-size: 55px;
-        margin :10px;
-        
+        margin :10px; 
 }
 
 h1 a{
@@ -15,7 +14,7 @@ h1 a{
     color: #F83232;
         -webkit-text-stroke: 0.5px white;
 }
-.container{
+.menu{
     position: fixed;
     width: 70%;
     padding-left: 150px;
