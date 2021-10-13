@@ -1,0 +1,50 @@
+body{
+    background-color: #333333;
+}
+
+.title{
+        float: left;
+        
+        font-size: 55px;
+        margin :10px; 
+}
+
+h1 a{
+    text-decoration: none;
+    color: #F83232;
+        -webkit-text-stroke: 0.5px white;
+}
+.menu{
+    position: fixed;
+    width: 70%;
+    padding-left: 150px;
+    z-index: -100;
+}
+
+
+nav ul {
+    list-style: none;
+    
+}
+
+ nav a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+    font-family: 'Titillium Web', sans-serif;
+    width: 50px;
+    height: 28px;
+}
+
+
+nav li{
+    display: inline-block;
+    margin-left: 70px;
+    padding-top: 25px;
+}
+
+.selected_page{
+    background-color: white;
+    color: black;
+}
+
